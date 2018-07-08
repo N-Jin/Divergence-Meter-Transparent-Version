@@ -1,5 +1,5 @@
 # Divergence Meter by N-Jin
-
+![Divergence Meter Picture] (https://i.imgur.com/WcydlWa.png) 
 ## Features:
 
 - The Divergence Meter shows the actual time, date and the last worldline
