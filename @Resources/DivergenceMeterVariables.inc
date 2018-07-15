@@ -5,7 +5,7 @@
 ; Default Variables:
 ; - DMFontSize=96
 ; - DMBackgroundOpacity=100
-;
+; - DMWorldLineMode
 ; These Variables effects the Divergence Meter
 DMFontSize=96
 DMBackgroundOpacity=1
