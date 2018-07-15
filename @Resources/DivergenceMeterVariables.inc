@@ -4,8 +4,7 @@
 ; DMBackgroundOpacity: fomr 0 to 255 (255 is the highest possibility number you can set (non-transparent background))
 ; Default Variables:
 ; - DMFontSize=96
-; - DMBackgroundOpacity=100
-; - DMWorldLineMode
+; - DMBackgroundOpacity=1
 ; These Variables effects the Divergence Meter
 DMFontSize=96
 DMBackgroundOpacity=1
