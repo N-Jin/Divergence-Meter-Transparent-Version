@@ -6,4 +6,4 @@
 ; - DMFontSize=96
 ; - DMBackgroundOpacity=100
 DMFontSize=96
-DMBackgroundOpacity=100
+DMBackgroundOpacity=1
