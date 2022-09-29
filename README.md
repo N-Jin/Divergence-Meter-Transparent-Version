@@ -13,6 +13,6 @@
 - Press the mousewheel to show the date
 - You can change the color, font size and the background transparency with the .inc files in the @Resources folder
 
-Get the latest version [here](https://files.n-jin.eu/Steins%3BGate%20Divergence%20Meter_1.04.rmskin "Version 1.04")! 
+Get the latest version [here](https://files.n-jin.xyz/Steins%3BGate%20Divergence%20Meter_1.04.rmskin "Version 1.04")! 
 
 Have fun^^
