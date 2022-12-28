@@ -1,5 +1,5 @@
 # Divergence Meter by N-Jin (Current Version: 1.04)
-![Divergence Meter Picture](https://i.imgur.com/WcydlWa.png) 
+![Divergence Meter Picture](https://raw.githubusercontent.com/N-Jin/Divergence-Meter-Transparent-Version/master/DivergenceMeterReleasePicture2.png) 
 ## Features:
 
 - The Divergence Meter shows the actual time, date and the last worldline
